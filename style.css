@@ -1,0 +1,120 @@
+.rasm {
+    width: 25px;
+    text-align: center;
+}
+
+.mavzu {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(221, 221, 221);
+}
+
+
+.big-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.mavzu2 {
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(240, 239, 239);
+}
+
+tr,
+th {
+    border: 0px solid rgb(0, 0, 0);
+    text-align: left;
+    padding: 8px;
+    background-color: antiquewhite;
+}
+
+
+
+.table {
+    background-color: rgb(54, 52, 52);
+    color: white;
+}
+
+.table2 {
+    text-align: center;
+    color: black;
+    background-color: rgb(205, 205, 205);
+}
+
+.table1 {
+    text-align: center;
+    background-color: rgb(54, 52, 52);
+    color: white;
+}
+
+.table3 {
+    color: black;
+    background-color: rgb(236, 236, 236);
+}
+
+.table4 {
+    text-align: center;
+    color: black;
+    background-color: rgb(236, 236, 236);
+}
+
+
+.title{
+    text-align: center;
+}
+
+
+.table6{
+    width: 700px;
+    background-color: white;
+}
+
+.pos1{
+    width: 1500px;
+}
+
+.video{
+    margin: 0px 31%;
+}
+
+.registratsiya{
+   text-align: center;
+    width: 150px;
+    height: 70px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn{
+    text-align: center;
+    color: rgb(84, 167, 239);
+}
+
+.b{
+    background-color: rgb(84,167, 239 );
+}
+
+.div1{
+    font-size: 20px;
+    text-align: center;
+}  
+
+.b1{
+    background-color: green;
+}
